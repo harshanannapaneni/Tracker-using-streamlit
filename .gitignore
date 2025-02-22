@@ -1,0 +1,7 @@
+# Ignore python venv
+.work
+.work/*
+
+# Creds
+.env
+*secrets.toml
